@@ -145,13 +145,13 @@ body {
   display: -ms-flexbox;
   display: flex;
   margin: 0;
-  margin-left: 5%;
+  margin-left: 20%;
 }
 
 .navbar-brand span {
   font-weight: 700;
   color: #000000;
-  font-size: 24px;
+  font-size: 62px;
   text-transform: uppercase;
 }
 
